@@ -29,11 +29,12 @@ LANGFUSE_HOST="..."
 ### Run
 
 ```bash
-uv run chainlit run main.py
+chainlit run main.py
 ```
 
 ### Lint
 
 ```bash
 make lint type
+
 ```
